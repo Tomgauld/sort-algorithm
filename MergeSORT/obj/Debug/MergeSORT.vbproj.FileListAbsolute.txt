@@ -1,0 +1,11 @@
+C:\Users\thoma\Documents\Code\VB\MergeSORT\bin\Debug\MergeSORT.exe.config
+C:\Users\thoma\Documents\Code\VB\MergeSORT\bin\Debug\MergeSORT.exe
+C:\Users\thoma\Documents\Code\VB\MergeSORT\bin\Debug\MergeSORT.pdb
+C:\Users\thoma\Documents\Code\VB\MergeSORT\bin\Debug\MergeSORT.xml
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.vbprojAssemblyReference.cache
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.Resources.resources
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.vbproj.GenerateResource.cache
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.exe
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.xml
+C:\Users\thoma\Documents\Code\VB\MergeSORT\obj\Debug\MergeSORT.pdb
